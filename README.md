@@ -46,3 +46,15 @@ wave 2
 3. Auto Log off - 5 min
 4. Email check
 5. Patient Check
+
+1. Registrations Loads - 100.000 patient registrations 
+2. Registration Performance - 100 Registrations Per Second
+3. User Stress - 10.00 Users
+
+1. Attachments will be saved in a blob azure storagein a folder that has the name of web portal patient id
+2. Patient web portal ID & Patient CRM ID ->
+3. TBD Patient Registration Form will in one page or we should split with steps so you complete step 1 andthen move forward -> with sections Next & Previous
+
+*  View all patients in hospital if they are assigned to the hospital also -> requst to view all hospitals patients on an user.
+*  User registrations with confiramtion from Polar Speed Admin or Master Admin.
+*
