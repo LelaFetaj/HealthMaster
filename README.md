@@ -1,12 +1,12 @@
 # HealthMaster
 This repository contains a Healthcare Management System aimed at streamlining patient registration and user management. It provides a platform for managing user profiles, patient data, and hospital information, all while ensuring robust security through authentication measures to enhance the efficiency of healthcare services.
 
-Technologies Used
-C#: For backend development.
-ASP.NET Core: Web framework for building web applications and APIs.
-SQL Server: Database for storing user and patient data.
-Docker: For containerization, ensuring consistent deployment across environments.
-RabbitMQ: For asynchronous messaging and handling background tasks.
+Technologies Used __
+C#: For backend development. __
+ASP.NET Core: Web framework for building web applications and APIs. __
+SQL Server: Database for storing user and patient data. __
+Docker: For containerization, ensuring consistent deployment across environments. __
+RabbitMQ: For asynchronous messaging and handling background tasks. __
 
 
 1. User master data
