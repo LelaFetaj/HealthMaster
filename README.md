@@ -1,12 +1,15 @@
 # Healthcare Management System
 This repository contains a Healthcare Management System aimed at streamlining patient registration and user management. It provides a platform for managing user profiles, patient data, and hospital information, all while ensuring robust security through authentication measures to enhance the efficiency of healthcare services.
 
-Technologies Used <br />
+**Technologies Used** <br />
 C#: For backend development. <br />
 ASP.NET Core: Web framework for building web applications and APIs. <br />
 SQL Server: Database for storing user and patient data. <br />
 Docker: For containerization, ensuring consistent deployment across environments. <br />
 RabbitMQ: For asynchronous messaging and handling background tasks. <br />
+
+## Development Approach <br />
+This project follows the Code First approach of Entity Framework, where the database schema is generated from C# classes, allowing flexibility in defining the data model directly in the codebase. This approach also ensures that any future changes to the model can be easily migrated to the database using Entity Framework migrations.
 
 
 1. User master data
